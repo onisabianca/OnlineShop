@@ -1,0 +1,72 @@
+.about-label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 40px;
+  margin-top: 40px;
+}
+
+.our-mission {
+  background: linear-gradient(to right, #6DBEEA, #EA6DDE);
+  padding: 50px;
+  margin-left: 100px;
+  margin-top: 60px;
+  border-radius: 60px;
+  display: inline-block;
+  height: 400px;
+  width: 350px;
+}
+
+.our-mission-label {
+    font-size: 30px;
+}
+
+.our-mission-text {
+    font-size: 16px;
+    transform: translateY(25px);
+}
+
+.history {
+  background: linear-gradient(to right, #6DBEEA, #EA6DDE);
+  padding: 50px;
+  margin-left: 100px;
+  margin-top: 60px;
+  border-radius: 60px;
+  display: inline-block;
+  height: 400px;
+  width: 350px;
+}
+
+.history-label {
+    font-size: 30px;
+}
+
+.history-text {
+    font-size: 16px;
+    transform: translateY(25px);
+}
+
+.values {
+  background: linear-gradient(to right, #6DBEEA, #EA6DDE);
+  padding: 50px;
+  margin-left: 100px;
+  margin-top: 60px;
+  border-radius: 60px;
+  display: inline-block;
+  height: 400px;
+  width: 350px;
+}
+
+.values-label {
+    font-size: 30px;
+}
+
+.values-text {
+    font-size: 16px;
+    transform: translateY(25px);
+}
+
+.bullets {
+    margin-left: 55px;
+}

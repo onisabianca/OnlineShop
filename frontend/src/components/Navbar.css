@@ -1,0 +1,95 @@
+.navbar {
+  height: 10vh;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-item-logout {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: black;
+  background-color: #f44336;
+  padding: 23px 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  transform: translateX(300px);
+}
+
+.nav-item-logout:hover {
+  background-color: #d32f2f;
+}
+
+.nav-item-admin {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: black;
+  background-color: light-blue;
+  padding: 23px 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.nav-item-admin:hover {
+  background-color: salmon;
+}
+
+.navbar-logo {
+  color: black;
+  text-decoration: none;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 10rem;
+}
+
+.nav-items{
+  display: flex;
+  list-style: none;
+  text-align: center;
+  width: 50vw;
+  justify-content: flex-end;
+  margin-right: 2rem;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  height: 10vh;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: #0905B3;
+  font-size: 1.1rem;
+  margin-right: 2rem;
+  padding: 6px 16px;
+  border-radius: 5px;
+}
+
+.nav-item a:hover {
+  background: rgb(0, 245, 226);
+}
+
+.house-logo {
+    transform: translateX(-115px);
+}
+
+.nav-item-profile {
+  margin-top: 2px;
+  color: #0905B3;
+  font-size: 1.1rem;
+  background-color: light-blue;
+  padding: 23px 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.nav-item-profile:hover {
+  background: rgb(0, 245, 226);
+}
+

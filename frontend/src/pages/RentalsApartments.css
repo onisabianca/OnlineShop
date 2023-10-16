@@ -1,0 +1,110 @@
+.label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 35px;
+  margin-top: 40px;
+}
+
+.label2 {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.horizontal-line {
+  border-top: 1px solid black;
+  width: 100%;
+  margin-bottom: 20px;
+  position: absolute;
+  left: 90px;
+}
+
+.images {
+  transform: translateY(20px);
+  border-radius: 20px;
+}
+
+.apartment {
+  background: #A0B3F6;
+  padding: 30px;
+  margin-left: 240px;
+  margin-top: 30px;
+  border-radius: 60px;
+  display: inline-block;
+  height: 260px;
+  width: 200px;
+  transform: translateY(20px);
+  display: inline-block;
+}
+
+.apartment p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+}
+
+.image-container {
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.icons{
+  transform: translateY(20px);
+  display: flex;
+}
+
+.icons button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.icons button:hover {
+  color: blue;
+}
+
+.icons button svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+.update-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.update-form input[type="text"],
+.update-form select {
+  margin-bottom: 15px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.update-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.update-form button:hover {
+  background-color: #0069d9;
+}

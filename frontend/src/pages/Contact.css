@@ -1,0 +1,139 @@
+.findus-label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 40px;
+  margin-top: 40px;
+}
+
+.call {
+  background: linear-gradient(to right, #6DBEEA, #EA6DDE);
+  padding: 30px;
+  margin-left: 100px;
+  margin-top: 60px;
+  border-radius: 60px;
+  display: inline-block;
+  height: 210px;
+  width: 350px;
+}
+
+.call-label {
+    font-size: 25px;
+}
+
+.call-text {
+    font-size: 16px;
+    transform: translateY(25px);
+}
+
+.visit {
+  background: linear-gradient(to right, #6DBEEA, #EA6DDE);
+  padding: 30px;
+  margin-left: 100px;
+  margin-top: 60px;
+  border-radius: 60px;
+  display: inline-block;
+  height: 210px;
+  width: 350px;
+  transform: translateY(-20px);
+}
+
+.visit-label {
+    font-size: 25px;
+}
+
+.visit-text {
+    font-size: 16px;
+    transform: translateY(25px);
+}
+
+.mail {
+  background: linear-gradient(to right, #6DBEEA, #EA6DDE);
+  padding: 30px;
+  margin-left: 100px;
+  margin-top: 60px;
+  border-radius: 60px;
+  display: inline-block;
+  height: 210px;
+  width: 350px;
+  transform: translateY(-43px);
+}
+
+.mail-label {
+    font-size: 25px;
+}
+
+.mail-text {
+    font-size: 16px;
+    transform: translateY(25px);
+}
+
+.bubbles {
+    transform: translateX(45px);
+}
+
+.social {
+  background: linear-gradient(to right, #6DBEEA, #EA6DDE);
+  padding: 30px;
+  margin-left: 100px;
+  margin-top: 60px;
+  border-radius: 60px;
+  display: inline-block;
+  height: 210px;
+  width: 500px;
+  transform: translateY(-50px);
+  display: inline-block;
+}
+
+.social-label {
+    font-size: 25px;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.fb {
+    margin-right: 30px;
+    border-radius: 15%;
+    overflow: hidden;
+}
+
+.in {
+    margin-right: 30px;
+    border-radius: 35%;
+    overflow: hidden;
+}
+
+.tw {
+    border-radius: 15%;
+    overflow: hidden;
+}
+
+.area{
+    transform: translateX(230px);
+    background-color: #F0F0FF;
+}
+
+.send-button {
+  background-color: rgb(173, 226, 250);
+  color: black;
+  font-size: 20px;
+  padding: 15px;
+  width: 120px;
+  border: none;
+  border-radius: 60px;
+  cursor: pointer;
+  transform: translateX(300px);
+}
+
+.form-container {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-260px);
+}

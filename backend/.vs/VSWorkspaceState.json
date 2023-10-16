@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backendDAW",
+    "\\backendDAW\\backendDAW",
+    "\\backendDAW\\backendDAW\\__pycache__",
+    "\\backendDAW\\RealEstateApp",
+    "\\backendDAW\\RealEstateApp\\migrations",
+    "\\backendDAW\\RealEstateApp\\__pycache__"
+  ],
+  "SelectedNode": "\\backendDAW\\RealEstateApp\\serializers.py",
+  "PreviewInSolutionExplorer": false
+}
